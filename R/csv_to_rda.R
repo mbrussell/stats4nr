@@ -1,5 +1,5 @@
 # Load data sets as .csvs and publish as .rda files
-library(tidyverse)
+# library(tidyverse)
 
 # elm
 elm <- read_csv("C://Users//russellm//Documents//Classes//UMN//NR 5021//Data//elm.csv")
