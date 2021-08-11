@@ -1,4 +1,4 @@
-# stats4nr
+# stats4nr <img src="man/figures/statisticsinnaturalresources.jpg" align="right" width="120" />
 
 This package contains several data sets used in the book *Statistics in Natural Resources: Applications with R*.
 
