@@ -1,4 +1,4 @@
-# stats4nr <img src="man/figures/statisticsinnaturalresources.jpg" align="right" width="120" />
+# stats4nr <img src="man/figures/statisticsinnaturalresources.jpg" align="right" width="250" />
 
 This package contains several data sets used in the book *Statistics in Natural Resources: Applications with R*.
 
@@ -14,7 +14,7 @@ Data sets include:
 
 ## Installation
 
-Installing the package provides access to these data sets. You can install the development version from GitHub using the **devtools** package
+Installing the package provides access to these data sets. You can install the development version from GitHub using the **devtools** package:
 
 ```R
 # install.packages("devtools")
