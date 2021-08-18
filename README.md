@@ -30,7 +30,7 @@ Data sets include:
 
 * **redpine**: Red pine tree measurements from Cloquet, MN. *Source*: https://conservancy.umn.edu/handle/11299/214889
 
-* **trupp**: Measurements of oak seedlings planted for browse protection in Cloquet, MN. (Unpublished data).
+* **trupp**: Measurements of oak seedlings planted for browse protection in Cloquet, MN. (Unpublished data). 
 
 ## Installation
 
