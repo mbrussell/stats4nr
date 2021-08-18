@@ -29,7 +29,7 @@ Data sets include:
 * **moths**: Spruce moths found in traps placed in four different locations in trees with different lures. *Source*: Brase and Brase (2017).  *Understandable statistics: concepts and methods, 11th ed.*
 
 * **redpine**: Red pine tree measurements from Cloquet, MN. *Source*: https://conservancy.umn.edu/handle/11299/214889
-
+ 
 * **trupp**: Measurements of oak seedlings planted for browse protection in Cloquet, MN. (Unpublished data). 
 
 ## Installation
